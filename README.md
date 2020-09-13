@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+# 大家好，我叫王子健。现在就读于**淄博职业学院**。是一名大二的学生。学习过JAVA、LINUX、PYTHON等课程。喜欢打篮球、唱歌。
 <!--
 **wzj0503/wzj0503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
